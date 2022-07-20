@@ -1,5 +1,5 @@
 # Tela Inicial
-![Inicial](https://user-images.githubusercontent.com/40778725/176553679-73adabce-2138-4c3d-97f3-565cda5609dc.png)
+![Inicial](https://user-images.githubusercontent.com/40778725/180069682-b2148536-8577-4ed3-a216-4bc09a9a5e85.png)
 
 # Card Hover Efeito
 Aplicação tem como base criar um efeito no card onde ao passar o mouse em cima exibe o conteúdo que está oculto. Pode ser usado para apresentar detalhes de serviços
